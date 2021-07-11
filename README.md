@@ -1,6 +1,6 @@
 # Virtual Mouse Controller
 ```
-• We can control volume virtually in front of camera by fingers
+• We can control mouse movements virtually in front of camera by fingers
 # python
 ```
 # Steps

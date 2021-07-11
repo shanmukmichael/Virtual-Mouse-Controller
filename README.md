@@ -3,7 +3,7 @@
 • We can control mouse movements virtually in front of camera by fingers
 # python
 ```
-# Steps
+## Steps
 ```
 • Find hand Landmarks
 • Get the tip of the index and middle fingers

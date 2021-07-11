@@ -12,7 +12,6 @@
 • Convert finger Coordinates with screen resolution by Interpolation method
 • Smoothen Values for accurate movement of mouse
 • Both Index and middle fingers are up : Clicking Mode
-• Both Index and middle fingers are up : Clicking Mode
 • Find distance between fingers
 • Click mouse if distance short
 • Drawing & Displaying Anotations
